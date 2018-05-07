@@ -1,0 +1,10 @@
+{
+  "name": "bower-mean",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^5.0.12",
+    "animate.css": "^3.5.2",
+    "angular": "^1.6.10",
+    "angular-route": "^1.6.10"
+  }
+}
