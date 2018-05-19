@@ -8,4 +8,4 @@ module.exports=mongoose.model('User',{
         type:String,
         default:''
     }
-})
+});

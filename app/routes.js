@@ -1,11 +1,3 @@
-/**
- * @author Nilakantha Singh Deo
- * @email nsinghdeo@protonmail.com
- * @create date 2018-05-06 01:33:15
- * @modify date 2018-05-06 01:33:15
- * @desc [description]
-*/
-//use the mongoose model as below
 var User=require('./models/user');
 
 //define the apis to get the data
@@ -21,9 +13,9 @@ module.exports=function(app){
             else{
                 res.json(users);
             }
-        })
+        });
 
-    })
+    });
 
 
 

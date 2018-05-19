@@ -1,5 +1,6 @@
 {
   "name": "bower-mean",
+  "version": "1.9",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "font-awesome": "^5.0.12",

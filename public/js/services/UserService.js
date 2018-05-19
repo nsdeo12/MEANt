@@ -1,4 +1,4 @@
-angular.module('userService',[]).factory('User',['$http',function($http){
+angular.module('UserService',[]).factory('User',['$http',function($http){
 
 
 return{
